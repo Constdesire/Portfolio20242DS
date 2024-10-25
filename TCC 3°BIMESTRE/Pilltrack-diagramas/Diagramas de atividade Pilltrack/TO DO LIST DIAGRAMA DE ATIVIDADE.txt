@@ -1,0 +1,22 @@
+--arrumar diagrama de caso de uso para fazer o de atividade
+Cadastrar caixa
+Cadastrar medico
+Cadastrar responsavel
+Vincular responsavel
+Vincular medico
+
+Notificar dose perdida -- nao precisa
+
+
+DIAGRAMAS DE ATIVIDADE
+Cadastrar paciente                 OK
+Fazer login                        OK
+Manter medicamento                 OK
+Relatar reação adversa             OK
+Visualizar medicamento             OK
+Visualizar relatorios              OK
+Detectar retirada de medicamentos  OK
+Registrar retirada de medicamentos OK
+
+
+
